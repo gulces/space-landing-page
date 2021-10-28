@@ -1,0 +1,13 @@
+.footer h2 {
+  color: antiquewhite;
+  font-size: medium;
+  padding-left: 50px;
+}
+
+.footer {
+  height: 200px;
+  width: auto;
+  display: flex;
+  align-items: flex-end;
+  background-position: center;
+}
